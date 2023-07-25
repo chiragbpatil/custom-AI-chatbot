@@ -1,0 +1,8 @@
+langchain
+faiss-cpu
+openai
+unstructured
+xmltodict
+tiktoken
+streamlit
+streamlit-chat
